@@ -38,7 +38,7 @@ For more detailed theoretical foundations, please refer to the textbook Modern R
 
 ![image](https://github.com/anonymousob0908/kinematics-and-dynamics-of-robotic-arms/edit/main/theory/12.png)
 
-![image]https://github.com/anonymousob0908/kinematics-and-dynamics-of-robotic-arms/edit/main/theory/13.png
+![image](https://github.com/anonymousob0908/kinematics-and-dynamics-of-robotic-arms/edit/main/theory/13.png)
 
-![image]https://github.com/anonymousob0908/kinematics-and-dynamics-of-robotic-arms/edit/main/theory/14.png
+![image](https://github.com/anonymousob0908/kinematics-and-dynamics-of-robotic-arms/edit/main/theory/14.png)
 
